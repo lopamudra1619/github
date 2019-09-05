@@ -1,3 +1,5 @@
-*.class
+i*.class
 
-myfile
+file2
+
+file3
